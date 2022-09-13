@@ -56,12 +56,12 @@ void test04(){
     Songer s1("li", 10);
     Songer s2("rui", 20);
     cout << s1.getFansCount() << endl;
-    s1++;
     cout << s1.getFansCount() << endl;
+    cout << (s1++).getFansCount() << endl;
     cout << "--------" << endl;
     cout << s2.getFansCount() << endl;
-    ++s2;
     cout << s2.getFansCount() << endl;
+    cout << (++s2).getFansCount() << endl;
 }
 
 void test05(){
@@ -70,10 +70,10 @@ void test05(){
 }
 
 int main() {
-    test01();
-    test02();
-    test03();
+//    test01();
+//    test02();
+//    test03();
     test04();
-    test05();
+//    test05();
     return 0;
 }
