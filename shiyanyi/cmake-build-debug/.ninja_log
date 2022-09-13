@@ -1,0 +1,15 @@
+# ninja log v5
+5	643	6842229050239109	CMakeFiles/shiyanyi.dir/main.cpp.obj	46fbadf976713a04
+643	850	6842229052303893	shiyanyi.exe	e3139bb7941ea5bc
+20	639	6842229050009118	CMakeFiles/shiyanyi.dir/People.cpp.obj	2ada05e56937f1f3
+14	605	6842229049838396	CMakeFiles/shiyanyi.dir/Tree.cpp.obj	69f2858ce04e160
+27	638	6842229049979060	CMakeFiles/shiyanyi.dir/Date.cpp.obj	4c04853d64d8b85f
+17	587	6842238417619408	CMakeFiles/shiyanyi.dir/Date.cpp.obj	8069d222c349d92b
+12	590	6842238417649408	CMakeFiles/shiyanyi.dir/Tree.cpp.obj	e72ecf6bfbf6296
+23	603	6842238417770220	CMakeFiles/shiyanyi.dir/People.cpp.obj	314afa044d81aaea
+5	604	6842238417780227	CMakeFiles/shiyanyi.dir/main.cpp.obj	f17768221e588f03
+605	933	6842238421019735	shiyanyi.exe	7fb89aae4a7e176e
+2	436	6843260430411445	CMakeFiles/shiyanyi.dir/main.cpp.obj	f17768221e588f03
+437	751	6843260433528406	shiyanyi.exe	7fb89aae4a7e176e
+3	408	6843265307576405	CMakeFiles/shiyanyi.dir/main.cpp.obj	f17768221e588f03
+409	730	6843265310762029	shiyanyi.exe	7fb89aae4a7e176e

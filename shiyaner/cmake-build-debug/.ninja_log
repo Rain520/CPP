@@ -1,0 +1,8 @@
+# ninja log v5
+2	345	6843143082136705	CMakeFiles/shiyanyi.dir/main.cpp.obj	fd59b3b6f6f469ce
+3	379	6843142540699125	CMakeFiles/shiyanyi.dir/Songer.cpp.obj	f65ec68038d841fe
+346	619	6843143084837560	shiyanyi.exe	dfbbe192284a4f37
+2	491	6845594385694540	CMakeFiles/shiyanyi.dir/Songer.cpp.obj	8f6912f1383226dd
+11	492	6845594385694540	CMakeFiles/shiyanyi.dir/main.cpp.obj	940b981aa6071a11
+493	819	6845594388940347	shiyanyi.exe	dfbbe192284a4f37
+11	412	6845594511954390	CMakeFiles/shiyanyi.dir/Songer.cpp.obj	8f6912f1383226dd

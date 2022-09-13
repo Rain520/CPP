@@ -1,0 +1,3 @@
+C:/Users/R/Desktop/study/CPP/shiyansi/cmake-build-debug/CMakeFiles/shiyansi.dir
+C:/Users/R/Desktop/study/CPP/shiyansi/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/R/Desktop/study/CPP/shiyansi/cmake-build-debug/CMakeFiles/rebuild_cache.dir
