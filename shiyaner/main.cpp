@@ -2,7 +2,6 @@
 using namespace std;
 #include "Songer.h"
 
-
 int Songer::count = 0;
 
 void PK(Songer &s1,Songer &s2){
@@ -16,6 +15,7 @@ void PK(Songer &s1,Songer &s2){
         cout << s1.name << "和" << s2.name << "粉丝数相同" << endl;
     }
 }
+
 
 void test01(){
     Songer s1("li",10);
