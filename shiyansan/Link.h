@@ -21,7 +21,7 @@ public:
 
     void Link_Insert(int x);
 
-    void Link_Delete(int x);
+    void Link_Delete();
 
     Link(Link &p);
 

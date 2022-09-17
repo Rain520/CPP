@@ -27,14 +27,11 @@ void test01(){
     s1.setFansCount(14);
     PK(s1, s2);
 
+    Songer::showCount();
+
     Songer s(s1);
 
     Songer::showCount();
-
-    cout << s1.count << endl;
-
-
-
 
 }
 

@@ -11,9 +11,12 @@ Songer::Songer(const string &name, int fansCount) : name(name), fans_count(fansC
 Songer::Songer(const Songer &s) {
     name = s.name;
     fans_count = s.fans_count;
+    count ++;
 }
 
-Songer::~Songer() {}
+Songer::~Songer() {
+    count--;
+}
 
 void Songer::setFansCount(int fansCount) {
     fans_count = fansCount;

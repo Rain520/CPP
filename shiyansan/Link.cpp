@@ -87,7 +87,10 @@ void Link::Link_Insert(int x){
     num++;
 }
 
-void Link::Link_Delete(int x) {
+void Link::Link_Delete() {
+    int x;
+    cout << "请输入要删除的元素：" << endl;
+    cin >> x;
     Node *p = head;
     int flag = 0;
     while(p->GetNext() !=NULL){

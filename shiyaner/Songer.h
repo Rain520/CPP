@@ -21,12 +21,13 @@ public:
 
     static void showCount();
 
-    static int count;
+
 
 private:
 
     string name;
     int fans_count;
+    static int count;
 
 };
 
