@@ -4,6 +4,20 @@
 
 #include "Songer.h"
 
+int Songer::count = 0;
+
+void PK(Songer &s1,Songer &s2){
+    if(s1.fans_count > s2.fans_count){
+        cout << s1.name << "战胜" << s2.name << endl;
+    }
+    else if(s1.fans_count < s2.fans_count){
+        cout << s2.name << "战胜" << s1.name << endl;
+    }
+    else{
+        cout << s1.name << "和" << s2.name << "粉丝数相同" << endl;
+    }
+}
+
 Songer::Songer(const string &name, int fansCount) : name(name), fans_count(fansCount) {
     count ++;
 }
