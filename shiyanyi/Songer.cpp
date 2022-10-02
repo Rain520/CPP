@@ -20,6 +20,6 @@ void Songer::setFansCount(int fansCount) {
 }
 
 void Songer::showCount(){
-    cout << "当前的歌手数为：" << Songer::count <<  endl;
+    cout << "当前的歌手数为:" << Songer::count <<  endl;
 }
 
